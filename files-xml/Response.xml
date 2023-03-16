@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetCustomerDetailsResponse
+        xmlns="http://bieniek.com.br/soap/webservices/customeradministration"
+        xsi:schemaLocation="http://bieniek.com.br/soap/webservices/customeradministration customer-information.xsd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+>
+    <CustomerDetail>
+        <id>123</id>
+        <name>Thiago Bianeck</name>
+        <phone>46999100270</phone>
+        <email>thiagobianeck@gmail.com</email>
+    </CustomerDetail>
+</GetCustomerDetailsResponse>

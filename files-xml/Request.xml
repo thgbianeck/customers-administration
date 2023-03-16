@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetCustomerDetailsRequest
+        xmlns="http://bieniek.com.br/soap/webservices/customeradministration"
+        xsi:schemaLocation="http://bieniek.com.br/soap/webservices/customeradministration customer-information.xsd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+>
+    <id>123</id>
+</GetCustomerDetailsRequest>
